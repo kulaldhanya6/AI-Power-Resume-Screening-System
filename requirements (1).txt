@@ -3,8 +3,10 @@ langchain
 langchain-community
 langchain-openai
 langchain-core
+langchain-text-splitters
 faiss-cpu
 pypdf
-sentence-transfornmers
+sentence-transformers
 scikit-learn
 pandas
+openai
